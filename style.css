@@ -1,0 +1,61 @@
+body {
+    background: rgb(93, 90, 228);
+    background: radial-gradient(circle, rgba(53, 90, 208, 1) 0%, rgba(63, 94, 251, 1) 20%, rgba(222, 70, 107, 1) 90%);
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px #7C4DFF;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.menu {
+    list-style: circle;
+    font-family: sans-serif;
+    position: relative;
+    top: 10px;
+    left: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: s-resize;
+    font-size: 20px;
+    color: deepskyblue
+}
+
+.links:hover {
+    background-color: chartreuse;
+}
+
+.bio {
+    font-size: 50px;
+}
+
+.image {
+    width: 480px;
+    height: 360px;
+}
+
+.jhon {
+   width: 480px;
+    height: 360px;
+}
